@@ -1,2 +1,2 @@
-Git is a good thing.
-Git is a free software.
+Git is not a good thing.
+Git is not a free software.
