@@ -5,3 +5,5 @@ Git tracks changes.
 
 
 This is a change to readme.md in dev branch.
+
+This is a change to readme.md in master branch.
